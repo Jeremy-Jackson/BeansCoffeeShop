@@ -1,0 +1,16 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    background-image: url(./Images/Coffee.jpg);
+    background-size: cover;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.jumbotron {
+    background-color: rgba(233, 215, 193, 0);
+    text-align: center;
+}
+h1 {
+    font-size: 64px;
+    padding-top: 50px;
+}
