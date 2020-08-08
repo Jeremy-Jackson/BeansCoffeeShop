@@ -23,3 +23,11 @@ html {
 h1 {
     padding-top: 50px;
 }
+
+.dropdown-menu {
+    background-color: rgb(16, 16, 16);
+}
+
+.dropdown-menu>li>a {
+    color: grey;
+}
